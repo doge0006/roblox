@@ -1,4 +1,4 @@
---BROUGHT TO YOU BY RSCRIPTS.NET!--
+
 
 game:GetService("RunService").Stepped:connect(function()
 game.Players.LocalPlayer.Character:WaitForChild("Humanoid"):ChangeState(11)
