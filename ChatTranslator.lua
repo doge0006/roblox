@@ -1,7 +1,6 @@
 --[[
     Message Translator
-    Made by Aim, updated by cli, Updated by rang#1234
-    Credits to Riptxde for the sending chathook
+    doge#0006
 --]]
 pcall(function()
     if not game['Loaded'] then game['Loaded']:Wait() end; repeat wait(.06) until game:GetService('Players').LocalPlayer ~= nil
